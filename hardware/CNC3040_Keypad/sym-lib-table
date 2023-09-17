@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CherryMX")(type "Legacy")(uri "${KIPRJMOD}/CherryMX.lib")(options "")(descr ""))
+  (lib (name "bluepill")(type "Legacy")(uri "${KIPRJMOD}/bluepill.lib")(options "")(descr ""))
+)
